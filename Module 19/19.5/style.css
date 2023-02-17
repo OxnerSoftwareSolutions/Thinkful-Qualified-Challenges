@@ -1,0 +1,15 @@
+.container {
+    display: grid;
+}
+
+.title {
+    grid-template-columns: 1fr / 2fr;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(40, 87, 255);
+    color: #fff;
+}
+
+.fishingBear {
+    grid-template-columns: 1fr / 2fr;
+}
